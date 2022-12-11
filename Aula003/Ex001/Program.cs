@@ -18,15 +18,15 @@ namespace exercised {
             Console.WriteLine("Numero de quartos: "+qrt);
 
             Console.Write("Qual é o preço do produto: R$");
-            double pric = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    /*VAR*/ double pric = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.WriteLine("Preço: " + pric);
 
             Console.Write("Qual é seu ultimo nome: ");
-            String s2 = Console.ReadLine();
+    /*VAR*/ String s2 = Console.ReadLine();
             Console.Write("Idade: ");
-            int id = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    /*VAR*/ int id = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Sua altura: ");
-            double alt = double.Parse(Console.ReadLine());
+    /*VAR*/ double alt = double.Parse(Console.ReadLine());
             Console.WriteLine("Seu ultimo nome é ->" + s2 + "| Sua idade é ->" + id + "| Sua altura é ->" +alt);
         }
     }

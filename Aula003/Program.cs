@@ -4,14 +4,14 @@ using System.Globalization;
 namespace Terceiro{
     class program{
         static void Main(string[] args) {
-    /*VAR*/int n1;
+    /*VAR*/ int n1;
             Console.Write("Digite um numrero: ");
-            n1 = int.Parse(Console.ReadLine());
+    /*VAR*/ n1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Vocé digitou -> " + n1);
             Console.WriteLine("//Adcionado cod Parse(Ao readline) para conversão da entrada de String para int");
 
             Console.Write("Digite o sexo F ou M: ");
-     /*VAR*/char ch = char.Parse(Console.ReadLine());
+    /*VAR*/ char ch = char.Parse(Console.ReadLine());
             Console.WriteLine("Você digitou -> " + ch); 
 
             Console.Write("Digite um numero real: ");
@@ -20,9 +20,9 @@ namespace Terceiro{
 
             String[] vt = Console.ReadLine().Split(' ');
             String nm = vt[0];
-     /*VAR*/char sx = char.Parse(vt[1]);
-     /*VAR*/int idag = int.Parse(vt[2]);
-     /*VAR*/double alt = double.Parse(vt[3], CultureInfo.InvariantCulture);
+    /*VAR*/ char sx = char.Parse(vt[1]);
+    /*VAR*/ int idag = int.Parse(vt[2]);
+    /*VAR*/ double alt = double.Parse(vt[3], CultureInfo.InvariantCulture);
             Console.WriteLine(nm + " - " + sx + " - " + idag + " - " + alt.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
