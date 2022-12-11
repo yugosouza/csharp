@@ -1,0 +1,5 @@
+C:\Users\yugo_\Curso\C#\Aula01\obj\Debug\net7.0\Aula01.csproj.AssemblyReference.cache
+C:\Users\yugo_\Curso\C#\Aula01\obj\Debug\net7.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yugo_\Curso\C#\Aula01\obj\Debug\net7.0\Aula01.AssemblyInfoInputs.cache
+C:\Users\yugo_\Curso\C#\Aula01\obj\Debug\net7.0\Aula01.AssemblyInfo.cs
+C:\Users\yugo_\Curso\C#\Aula01\obj\Debug\net7.0\Aula01.csproj.CoreCompileInputs.cache
