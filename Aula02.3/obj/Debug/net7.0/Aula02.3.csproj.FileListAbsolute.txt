@@ -1,0 +1,15 @@
+C:\Users\yugo_\Curso\C#\Aula02.3\obj\Debug\net7.0\Aula02.3.csproj.AssemblyReference.cache
+C:\Users\yugo_\Curso\C#\Aula02.3\obj\Debug\net7.0\Aula02.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yugo_\Curso\C#\Aula02.3\obj\Debug\net7.0\Aula02.3.AssemblyInfoInputs.cache
+C:\Users\yugo_\Curso\C#\Aula02.3\obj\Debug\net7.0\Aula02.3.AssemblyInfo.cs
+C:\Users\yugo_\Curso\C#\Aula02.3\obj\Debug\net7.0\Aula02.3.csproj.CoreCompileInputs.cache
+C:\Users\yugo_\Curso\C#\Aula02.3\bin\Debug\net7.0\Aula02.3.exe
+C:\Users\yugo_\Curso\C#\Aula02.3\bin\Debug\net7.0\Aula02.3.deps.json
+C:\Users\yugo_\Curso\C#\Aula02.3\bin\Debug\net7.0\Aula02.3.runtimeconfig.json
+C:\Users\yugo_\Curso\C#\Aula02.3\bin\Debug\net7.0\Aula02.3.dll
+C:\Users\yugo_\Curso\C#\Aula02.3\bin\Debug\net7.0\Aula02.3.pdb
+C:\Users\yugo_\Curso\C#\Aula02.3\obj\Debug\net7.0\Aula02.3.dll
+C:\Users\yugo_\Curso\C#\Aula02.3\obj\Debug\net7.0\refint\Aula02.3.dll
+C:\Users\yugo_\Curso\C#\Aula02.3\obj\Debug\net7.0\Aula02.3.pdb
+C:\Users\yugo_\Curso\C#\Aula02.3\obj\Debug\net7.0\Aula02.3.genruntimeconfig.cache
+C:\Users\yugo_\Curso\C#\Aula02.3\obj\Debug\net7.0\ref\Aula02.3.dll
